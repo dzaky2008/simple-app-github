@@ -1,5 +1,5 @@
 services:
   webserver:
-    image: ghcr.io/dzaky2008/nginx-DzakyRiffattayaAlfawwaz
+    image: ghcr.io/dzaky2008/nginx-dzakyriffattayaalfawwaz
     ports:
       - "8080:80"
